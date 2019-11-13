@@ -27,7 +27,7 @@ div {
   float: left;
   width: 100%;
   background-size: cover;
-  padding: 30px;
+  padding: 2%;
   height: 360px;
 }
 
@@ -52,13 +52,13 @@ div {
 @media screen and (min-width: 575px) {
   .preview {
     margin: 1%;
-    width: 48%;
+    width: 44%;
   }
 }
 
 @media screen and (min-width: 991px) {
   .preview {
     margin: 1%;
-    width: 23%;
+    width: 19%;
   }
 }
